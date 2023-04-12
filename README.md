@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me @thecodingflock on twitter
+- 📫 How to reach me @ei_asamoah on twitter
 
 <!---
 Me45y63/Me45y63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
