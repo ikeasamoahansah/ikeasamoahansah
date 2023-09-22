@@ -1,10 +1,6 @@
-<h1 align="center">Red Repo 🥷</h1>
+<h1 align="center">Ike🥷</h1>
 
- 🌱 - Growth is **inevitable**
- 
- 🩺 - PhD
-
- 📚 - B
+ 🥋 Martial Artist
 
 <h3 align="left">Let's talk:</h3>
 <p align="left">
