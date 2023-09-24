@@ -1,4 +1,5 @@
 <h1 align="center">Ike🥷🏾</h1>
+<p align="center">I like to accumulate GitHub Greens 🟢. Keeps me going!💪🏾</p>
 
 <h3 align="left">Let's Talk:</h3>
 <p align="left">
