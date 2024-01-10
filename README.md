@@ -1,5 +1,5 @@
 <h1 align="center">Ike🥷🏾</h1>
-<p align="center">Backend Developer 🟢. ML Engineer💪🏾</p>
+<p align="center">Backend Developer, ML Engineer💪🏾🟢</p>
 
 <h3 align="left">Let's Talk:</h3>
 <p align="left">
