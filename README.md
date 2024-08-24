@@ -1,10 +1,10 @@
 Hi there! I am @ikeasmoahansah (Ike Asamoah-Ansah) 👋🏾 
 
-Ghanaian based 🇬🇭
+Ghanaian 🇬🇭
 
-I am a Backend Web Developer and Machine Learning Engineer (almost) 🌚
+I am a Backend Web Developer and Machine Learning Engineer 🌚
 
-I like to build modern backend APIs, no frontend though 🥴
+I like to build modern backend APIs
 
 I am currently dedicating a high percentage of my time to building Machine Learning applications 🤖
 
